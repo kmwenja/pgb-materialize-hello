@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id = "caninemwenja.hellomaterialize"
+        versionCode = "1"
+        version = "0.0.1" >
+    <!-- versionCode is optional and Android only -->
+    <name>PGB Hello Materialize</name>
+    <description>
+        Hello World for Phone Gap Build (with Materialize CSS).
+    </description>
+    <author href="https://github.com/caninemwenja" email="mwenja07@gmail.com">
+        Caninemwenja
+    </author>
+    <gap:platform name="android" />
+</widget>
